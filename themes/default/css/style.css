@@ -49,7 +49,7 @@ body {
 }
 #falInterpretation{
     min-height: 100px;
-    max-height: 200px;
+    /* max-height: 200px; */
 }
 .interpretation-box {
     background: #f8f9fa;
